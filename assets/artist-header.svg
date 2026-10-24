@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#234d3a"/><stop offset=".6" stop-color="#10251c"/><stop offset="1" stop-color="#101312"/></linearGradient><radialGradient id="disc"><stop stop-color="#213d2d"/><stop offset="1" stop-color="#0b1510"/></radialGradient></defs>
+<rect width="1200" height="480" rx="20" fill="url(#bg)"/>
+<g fill="none" stroke="#71bc89" opacity=".13"><circle cx="1005" cy="223" r="270"/><circle cx="1005" cy="223" r="248"/><circle cx="1005" cy="223" r="226"/><circle cx="1005" cy="223" r="204"/></g>
+<circle cx="997" cy="230" r="170" fill="url(#disc)" stroke="#426e51"/>
+<g fill="none" stroke="#55795e" opacity=".35"><circle cx="997" cy="230" r="151"/><circle cx="997" cy="230" r="139"/><circle cx="997" cy="230" r="127"/><circle cx="997" cy="230" r="115"/><circle cx="997" cy="230" r="103"/></g>
+<circle cx="997" cy="230" r="62" fill="#b4f582"/><circle cx="997" cy="230" r="9" fill="#10251c"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="55" y="58" fill="#c8dacd" font-size="13" letter-spacing="4">THE DEVELOPER COLLECTION / VOL. 01</text>
+<circle cx="64" cy="115" r="7" fill="#b4f582"/><text x="82" y="120" fill="#e6eee8" font-size="15">CODE · CREATE · REPEAT</text>
+<text x="47" y="279" fill="#f5f8f2" font-size="176" font-weight="900" letter-spacing="-12">LOKI</text>
+<text x="57" y="326" fill="#e8f1e9" font-size="25" font-weight="600">Ayoub Ouharda</text>
+<text x="57" y="360" fill="#aebfb3" font-size="18">Développeur Full Stack · Maroc</text>
+<rect x="56" y="400" width="172" height="38" rx="19" fill="#b4f582"/><path d="M75 411l13 8-13 8z" fill="#112017"/><text x="101" y="425" fill="#112017" font-size="13" font-weight="700">WORKING EVERYDAY</text>
+<text x="1150" y="442" text-anchor="end" fill="#9aae9f" font-size="12" letter-spacing="2">@10LOKI</text></g></svg>
